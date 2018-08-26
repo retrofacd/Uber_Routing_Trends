@@ -788,3 +788,7 @@ plt.show()
 
 ![png](output_14_0.png)
 
+Three Trends: 
+   1)Uber Trips per city have a much higher ratio (x4) of Urban trips in comparison to Rural Trips.
+    2)Uber Trips in Rural locations are more costly but less frequent in comparison to the trips in more populated and urban areas.
+    3)Due to popularity and trends 1 and 2, there will be less drivers per city type in a Rural setting rather than Suburban and Urban (pie chart 3). 
